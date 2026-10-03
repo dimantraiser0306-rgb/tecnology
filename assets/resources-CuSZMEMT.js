@@ -1,0 +1,1 @@
+import"./material-icons-DBXLLKMU.js";document.querySelector(`.buttons__block`);var e=document.querySelectorAll(`.button`);document.querySelector(`.chosen__button`),e.forEach(e=>{e.addEventListener(`click`,function(){console.log(`click`),e.classList.remove(`chosen_button`),e.classList.add(`chosen_button`)})});
